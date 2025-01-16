@@ -5,9 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+#custom variables
+*.artifact
 # Distribution / packaging
-.artifact
+
 .Python
 build/
 develop-eggs/
